@@ -7,7 +7,7 @@
 
 
 ## 공부자료
-- [C/C++](soen.kr)
+- [소엔(C/C++)](soen.kr)
 - [로제타코드](http://www.rosettacode.org/wiki/Rosetta_Code)
 - [긱스포긱스](https://www.geeksforgeeks.org/)
 - [KUDING](https://kuding.korea.ac.kr/)
